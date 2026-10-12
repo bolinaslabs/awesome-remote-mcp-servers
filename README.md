@@ -2862,6 +2862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+- [formset](https://www.getformset.com) `https://mcp.getformset.com/mcp`
+  [![formset MCP connector](https://glama.ai/mcp/connectors/com.getformset/formset/badges/score.svg)](https://glama.ai/mcp/connectors/com.getformset/formset)
+  🔐 - Describe a form in chat and get a hosted, shareable form back; ask about the answers in the same conversation.
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
